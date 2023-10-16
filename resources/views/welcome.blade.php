@@ -9,6 +9,6 @@
     
     <h2>This is me trying to connect to aws using putty etc</h2>
     <h1>Okay sure</h1>
-    Aarushi Tiwari
+    Aarushi 
 </body>
 </html>
