@@ -11,9 +11,6 @@
     <h1>Okay sure</h1>
     Aarushi Tiwari
 
-    Test done successfully
-
-    <h4>Connection done and established alone now need to work on ansible</h4>
-    <h5>We worked on ansible and now it is working finr </h5>
+ 
 </body>
 </html>
